@@ -1,0 +1,123 @@
+body {
+	font-family: "Montserrat Alternates", sans-serif;
+	max-width: 1000px;
+	min-width: 700px;
+	margin: auto;
+	display: flex;
+}
+.all {
+	display: flex;
+	flex-direction: row-reverse;
+	box-shadow: rgb(1, 31, 31);
+}
+.info_main {
+	background-color: rgb(216, 255, 211);
+	padding: 3%;
+	width: 1000px;
+}
+.info_about {
+	background-color: rgb(44, 82, 87);
+	color: aliceblue;
+	width: 375px;
+	padding: 3%;
+}
+.photo {
+	width: 350px;
+	height: 375px;
+	padding-top: 15px;
+}
+.irrel {
+	background-color: rgb(179, 216, 208);
+	padding: 1%;
+}
+.links {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 24px;
+	color: rgb(12, 160, 15);
+}
+.contacts {
+	margin-bottom: 10px;
+}
+.skills {
+	margin-bottom: 10px;
+}
+.lists {
+	padding-left: 18px;
+	margin-bottom: 0px;
+}
+.li_item {
+	color: rgb(242, 162, 15);
+	margin-left: 5px;
+}
+.li_text {
+	color: white;
+}
+.ol_item {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 24px;
+}
+.ol_text,
+.ol_links {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 24px;
+	color: rgb(84, 83, 83);
+}
+.about_me {
+	width: 400px;
+}
+.about_position {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 17px;
+	margin-bottom: 5px;
+}
+.about_name {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	line-height: 55px;
+	margin-bottom: 25px;
+}
+h3 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 27px;
+	margin-bottom: 10px;
+}
+h4 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 20px;
+	margin-bottom: 5px;
+}
+.ol_brackets {
+	font-style: normal;
+	font-weight: bold;
+	color: black;
+	font-size: 14px;
+	line-height: 20px;
+}
+.company {
+	color: orange;
+}
+.period {
+	color: grey;
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.work_list_item {
+	font-style: normal;
+	font-weight: normal;
+	color: #595959;
+	font-size: 14px;
+	line-height: 24px;
+}
